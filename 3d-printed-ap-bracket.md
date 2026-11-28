@@ -68,4 +68,4 @@ Before mounting, check the printed bracket:
 ## Files
 | File | Description |
 |---|---|
-| [`hardware/AIR-AP-BRACKET-1.stl`](../hardware/AIR-AP-BRACKET-1.stl) | Printable model |
+| [`AIR-AP-BRACKET-1.stl`](AIR-AP-BRACKET-1.stl) | Printable model |
