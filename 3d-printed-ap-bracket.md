@@ -2,7 +2,7 @@
 
 A mounting bracket for the Cisco Aironet 3802 access points, 3D printed in PETG on a Creality Ender 3 V3. This page covers how to print it, with the most important point first: **the countersunk screw recesses must face up.**
 
-- **Model file:** [`AIR-AP-BRACKET-1.stl`](../AIR-AP-BRACKET-1.stl)
+- **Model file:** [`AIR-AP-BRACKET-1.stl`](AIR-AP-BRACKET-1.stl)
 - **Printer:** Creality Ender 3 V3
 - **Material:** PETG
 - **Supports:** none needed when printed in the orientation below
